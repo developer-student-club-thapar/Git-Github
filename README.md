@@ -23,7 +23,7 @@ By default your repository has one branch named master which is considered to be
 
 When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
 
-Have you ever saved different versions of a file? Something like:
+Have you saved different versions of a file before? Something like:
 
 story.txt
 story-joe-edit.txt
@@ -56,7 +56,7 @@ These changes will be made to just the README file on your readme-edits branch, 
 
 
 # Step 4. Open a Pull Request
-Nice edits! Now that you have changes in a branch off of master, you can open a pull request.
+Perfect edits! Now that you have changes in a branch off of master, you can open a pull request.
 
 Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
 
